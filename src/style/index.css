@@ -160,9 +160,9 @@ article img {
   margin-right: auto;
 }
 
-table {
+/* table {
   table-layout: fixed;
-}
+} */
 
 @media screen and (max-width: 495px) {
   .ant-col {
